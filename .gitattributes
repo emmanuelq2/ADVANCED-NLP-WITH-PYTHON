@@ -1,0 +1,5 @@
+﻿# Normalize text file line endings
+* text=auto
+
+# Keep notebooks as text for diffing, but normalize line endings
+*.ipynb text eol=lf
